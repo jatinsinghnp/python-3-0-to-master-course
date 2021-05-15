@@ -1,0 +1,1 @@
+wap to user input 10 number and print the even of that number

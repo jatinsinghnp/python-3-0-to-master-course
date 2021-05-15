@@ -1,0 +1,1 @@
+wap using fumction that takes two argument and display the addition,subtraction,division,multiplication

@@ -1,0 +1,2 @@
+wap to input age and name of the person and convert years into month
+and dispaly(hint :- month= age*12)

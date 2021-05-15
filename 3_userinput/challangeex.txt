@@ -1,0 +1,3 @@
+#wap program to find the area of circle , rectangle user input 
+
+#wap to enter first name and last name and greet the user ("hellow "first+lastname )   using f'  string

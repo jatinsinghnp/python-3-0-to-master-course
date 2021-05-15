@@ -1,0 +1,4 @@
+# 1.create two variables , var1 and var2 , both with the same values.it can be anything you want
+#  2.create two variables ,num1 and num2 , that multiply together gives 6
+
+
